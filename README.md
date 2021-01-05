@@ -155,6 +155,4 @@ styleResources: {
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
 ---
-
-Do not hesitate if there are suggestions and criticisms 😃 [@asapdotid](https://github.com/asapdotid)
 # Hotel-Rest
